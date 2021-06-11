@@ -1,0 +1,16 @@
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.exe
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.deps.json
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.runtimeconfig.json
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.runtimeconfig.dev.json
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.dll
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\ref\MethodExercise.dll
+C:\Users\apilk\source\repos\MethodExercise\bin\Debug\net5.0\MethodExercise.pdb
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.AssemblyInfo.cs
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.dll
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\ref\MethodExercise.dll
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.pdb
+C:\Users\apilk\source\repos\MethodExercise\obj\Debug\net5.0\MethodExercise.genruntimeconfig.cache
